@@ -19,7 +19,7 @@ const AboutUs = () => {
         </div>
       </div>
     </div>
-    
+    {/*ok*/}
   );
 };
 
